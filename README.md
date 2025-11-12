@@ -22,7 +22,7 @@ Jupyter Notebook (for model development & visualization)
 
 
 
-🚀 Future Scope
+♦️Future Scope
 
 Real-time prediction with a FastAPI
 
