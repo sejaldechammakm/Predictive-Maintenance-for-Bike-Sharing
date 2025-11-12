@@ -1,7 +1,5 @@
 🚲 Bike Maintenance Prediction System
 
-This project is a machine learning–based predictive maintenance system for a bike-sharing service. It uses real-world usage data (ride history, vibration levels, rain rides, service intervals, etc.) to predict whether a bike requires maintenance.
-
 🔑 Features
 
 Database Integration: Data is stored and fetched from a PostgreSQL database.
